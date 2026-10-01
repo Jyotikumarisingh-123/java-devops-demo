@@ -84,5 +84,7 @@ java-devops-demo/
 ├── Jenkinsfile
 └── README.md
 
+Jenkins CI/CD pipeline configured successfully.
+
 
 
