@@ -66,31 +66,23 @@ The project will gradually be extended with:
 
 | Kubernetes | Container orchestration |
 
+Jenkins CI/CD test
 
-
-\## Project Structure
+## Project Structure
 
 
 
 ```text
-
 java-devops-demo/
-
-│
-
 ├── src/
-
-│   └── main/
-
-│       └── java/
-
-│           └── App.java
-
-│
-
+│   ├── main/
+│   │   └── java/
+│   │       └── ...
+│   └── test/
 ├── pom.xml
-
-├── .gitignore
-
+├── Dockerfile
+├── Jenkinsfile
 └── README.md
+
+
 
